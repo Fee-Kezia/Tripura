@@ -4,12 +4,12 @@ A modern web application for planning vacations with AI-powered route planning, 
 
 ## Features
 
-- 🗺️ **Interactive Map Integration** - Google Maps API for route planning
-- 🤖 **AI-Powered Recommendations** - Smart suggestions for stops and activities
-- 📱 **Progressive Web App** - Installable on mobile devices and app stores
-- 🎨 **Modern UI/UX** - Beautiful, responsive design with smooth animations
-- 🔥 **Special Offers** - Exclusive deals and promotions
-- ⭐ **Best Locations & Activities** - Curated recommendations
+-  **Interactive Map Integration** - Google Maps API for route planning
+-  **AI-Powered Recommendations** - Smart suggestions for stops and activities
+-  **Progressive Web App** - Installable on mobile devices and app stores
+-  **Modern UI/UX** - Beautiful, responsive design with smooth animations
+-  **Special Offers** - Exclusive deals and promotions
+-  **Best Locations & Activities** - Curated recommendations lol
 
 ## Tech Stack
 
